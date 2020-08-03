@@ -1,0 +1,11 @@
+{
+	"confirm": {
+		"message": "success"
+	},
+	"already" : {
+		"message": "already confirmed"
+	},
+	"error" : {
+		"message": "error"
+	}
+}
